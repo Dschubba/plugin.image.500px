@@ -19,8 +19,15 @@ This addon was created by Patrick L Archibald (PLA), with contributions by Clém
 
 The source for this addon can be found at https://github.com/pla1/plugin.image.500px.
     </description>
+    <description>
+      Betrachte Fotos von http://500px.com.
+
+Dieses Addon wurde von Patrick L Archibald (PLA) geschrieben, mit Beiträgen von Clément MATHIEU, Marian Flor und Snorre Løvås.
+
+Die Quelltexte für dieses Addon können unter https://github.com/pla1/plugin.image.500px gefunden werden.
+    </description>
     <license>GPL 2.0</license>
-    <language>en</language>
+    <language>en de</language>
     <forum>https://github.com/pla1/plugin.image.500px/issues</forum>
     <website>https://github.com/pla1/plugin.image.500px</website>
     <source>https://github.com/pla1/plugin.image.500px</source>

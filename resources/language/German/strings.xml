@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30000">Allgemein</string>
+  <string id="30001">Feature</string>
+  <string id="30002">Popular</string>
+  <string id="30003">Upcoming</string>
+  <string id="30004">Editors</string>
+  <string id="30005">Fresh today</string>
+  <string id="30006">Fresh yesterday</string>
+  <string id="30007">Fresh this week</string>
+  <string id="30008">Bilder pro Seite</string>
+  <string id="30009">Anzahl Seiten begrenzen</string>
+  <string id="30010">Maximal Anzahl von Seiten</string>
+  <string id="30011">Bildgröße</string>
+  <string id="30012">Miniaturgröße</string>
+  <string id="30013">Verwende Miniaturen auf Verzeichnissen wenn möglich</string>
+  <string id="30020">Benutzer</string>
+  <string id="30021">Benutzername</string>
+</strings>
